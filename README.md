@@ -95,7 +95,7 @@ WHERE total_growth>0
 ORDER BY total_growth desc;
 ```
 Below is a visual representation of the project's architecture:
-![Project Architecture](https://github.com/AfreenReshma/WORLD-DEBT-INSIGHTS/blob/main/world%20debt.png?raw=true)
+![world debt](https://github.com/user-attachments/assets/6baa449c-703c-41fa-b04c-74076080750a)
 
 ---
 ## **Identifying Global Debt Problems**
